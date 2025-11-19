@@ -1,1 +1,1 @@
-lts/hydrogen
+echo "22.21.1" > .nvmrc
